@@ -30,7 +30,7 @@ rather than a black-box model.
 ### The dataset
 
 The project is driven by a real 8-month transaction history
-(`data/sample_transactions.csv`, 477 rows, January–August 2024) with the
+(`data/sample_transactions.csv`, 477 rows, January-August 2024) with the
 columns `date`, `description`, `amount`, `type` and `category`. Amounts are
 stored **unsigned**, with a `type` column of `credit` / `debit` giving the
 direction a common bank-export convention. The history contains regular
@@ -165,7 +165,7 @@ balance would go negative.
 ## 6. Recommendations
 
 Recommendations are deliberately **rule-based and transparent** rather than
-learned every message can be traced to a concrete figure. Each carries a
+learned; every message can be traced to a concrete figure. Each carries a
 priority (`CRITICAL` / `WARNING` / `INFO`) and the list is sorted by
 severity. The rules cover:
 
