@@ -194,7 +194,7 @@ subscriptions (Telekom, Gym, Adobe, Mobile, Netflix, Spotify, GitHub Pro).
 It reports monthly recurring income of €2,500 against €792.93 of recurring
 expenses, a recurring net of about +€1,707 before discretionary spending.
 
-The detector correctly *excludes* the irregular items- the variable
+The detector correctly *excludes* the irregular items: the variable
 "Freelance Project Payment" income and the fluctuating utility bill fall
 outside the amount/interval regularity thresholds, which is the desired
 behaviour, since those are not dependable recurring cash flows.
@@ -237,7 +237,7 @@ scale, income and expenses distinguished by colour:
 - **Documentation.** Every module, class and public function has a
   docstring; the README and this report cover usage and methodology; a
   Jupyter notebook demonstrates the library API.
-- **Testing.** 17 `pytest` tests cover detection (positive and negative
+- **Testing.** 21 `pytest` tests cover detection (positive and negative
   cases), forecasting behaviour, number/date parsing and an end-to-end
   round-trip through generated data.
 - **Style.** The code passes `ruff check` under a configuration selecting
