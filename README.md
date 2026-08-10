@@ -39,7 +39,7 @@ For the test and lint tooling as well:
 uv pip install -e ".[dev]"
 ```
 
-The only runtime dependency is `matplotlib` (used for the optional charts).
+The only runtime dependency is `matplotlib` (used for the charts).
 
 ---
 
