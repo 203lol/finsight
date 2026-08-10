@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.mypy_cache/
+
+# OS
+.DS_Store
+
+# Note: outputs/*.png and data/transactions_sample.csv ARE committed on
+# purpose so the README images render and the demo works out of the box.
+
+# Duplicate artifacts if the notebook is run from its own directory
+notebooks/data/
+notebooks/outputs/
+uv.lock

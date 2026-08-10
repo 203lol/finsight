@@ -1,0 +1,478 @@
+date,description,amount,type,category
+01/01/2024,Salary Credit,2500.0,credit,salary
+01/01/2024,Netflix Subscription,12.99,debit,subscription
+01/01/2024,Gym Membership,29.99,debit,subscription
+01/01/2024,Mobile Plan,19.99,debit,subscription
+01/01/2024,Adobe Creative Cloud,24.99,debit,subscription
+01/01/2024,GitHub Pro,4.99,debit,subscription
+01/01/2024,Restaurant Italiano,5.5,debit,dining
+02/01/2024,Netto,38.4,debit,groceries
+02/01/2024,Doener King,8.5,debit,dining
+03/01/2024,Rent Payment,650.0,debit,rent
+03/01/2024,Spotify Premium,9.99,debit,subscription
+03/01/2024,Edeka,15.0,debit,groceries
+03/01/2024,REWE Markt,65.0,debit,groceries
+04/01/2024,Ditsch,14.2,debit,dining
+04/01/2024,Bus Ticket,8.9,debit,transport
+04/01/2024,Festival Ticket,15.0,debit,entertainment
+05/01/2024,Telekom Internet,39.99,debit,utilities
+05/01/2024,Festival Ticket,9.5,debit,entertainment
+06/01/2024,Haircut,25.0,debit,shopping
+07/01/2024,Shell Fuel,55.0,debit,transport
+08/01/2024,Starbucks,14.2,debit,dining
+10/01/2024,ALDI Sued,65.0,debit,groceries
+10/01/2024,DB Bahn Ticket,8.9,debit,transport
+10/01/2024,University Books,23.28,debit,education
+11/01/2024,Pizza Hut,42.0,debit,dining
+11/01/2024,Bus Ticket,38.0,debit,transport
+11/01/2024,Steam Game,15.0,debit,entertainment
+12/01/2024,Kaufland,65.0,debit,groceries
+13/01/2024,Sushi Bar,12.0,debit,dining
+13/01/2024,Dry Cleaning,18.5,debit,shopping
+14/01/2024,Kaufland,38.4,debit,groceries
+14/01/2024,Aral Fuel,18.3,debit,transport
+15/01/2024,Stadtwerke Utilities,113.08,debit,utilities
+15/01/2024,Bus Ticket,45.0,debit,transport
+17/01/2024,Lidl,65.0,debit,groceries
+17/01/2024,Starbucks,6.5,debit,dining
+17/01/2024,VRR Monthly,15.0,debit,transport
+18/01/2024,Netto,28.9,debit,groceries
+18/01/2024,Parking Ticket,25.0,debit,transport
+19/01/2024,BioMarkt,29.99,debit,groceries
+19/01/2024,Burger Place,42.0,debit,dining
+20/01/2024,Freelance Project Payment,265.06,credit,salary
+20/01/2024,DM Drogerie,72.5,debit,groceries
+20/01/2024,VRR Monthly,65.0,debit,transport
+20/01/2024,H&M,120.0,debit,shopping
+21/01/2024,Pizza Hut,19.8,debit,dining
+21/01/2024,Media Markt,12.5,debit,shopping
+23/01/2024,Lidl,33.2,debit,groceries
+23/01/2024,Restaurant Italiano,42.0,debit,dining
+24/01/2024,Edeka,28.9,debit,groceries
+24/01/2024,Restaurant Italiano,19.8,debit,dining
+24/01/2024,Starbucks,22.3,debit,dining
+26/01/2024,Salary Credit,2500.0,credit,salary
+26/01/2024,Mobile Plan,19.99,debit,subscription
+26/01/2024,Netto,42.3,debit,groceries
+26/01/2024,Bus Ticket,8.9,debit,transport
+27/01/2024,FlixBus,8.9,debit,transport
+27/01/2024,Decathlon,120.0,debit,shopping
+28/01/2024,REWE Markt,42.3,debit,groceries
+29/01/2024,GitHub Pro,4.99,debit,subscription
+30/01/2024,Gym Membership,29.99,debit,subscription
+30/01/2024,Adobe Creative Cloud,24.99,debit,subscription
+31/01/2024,Rent Payment,650.0,debit,rent
+31/01/2024,Netflix Subscription,12.99,debit,subscription
+31/01/2024,Spotify Premium,9.99,debit,subscription
+31/01/2024,REWE Markt,15.0,debit,groceries
+31/01/2024,Bus Ticket,22.5,debit,transport
+01/02/2024,Netto,48.6,debit,groceries
+01/02/2024,DB Bahn Ticket,45.0,debit,transport
+01/02/2024,Amazon Order,42.5,debit,shopping
+02/02/2024,Telekom Internet,39.99,debit,utilities
+02/02/2024,ALDI Sued,38.4,debit,groceries
+02/02/2024,Doener King,35.0,debit,dining
+02/02/2024,McDonalds,6.5,debit,dining
+02/02/2024,Shoes,65.0,debit,shopping
+03/02/2024,ALDI Sued,15.0,debit,groceries
+03/02/2024,Cafe Central,5.5,debit,dining
+03/02/2024,Bus Ticket,55.0,debit,transport
+06/02/2024,Restaurant Italiano,5.5,debit,dining
+07/02/2024,BioMarkt,28.9,debit,groceries
+08/02/2024,REWE Markt,72.5,debit,groceries
+08/02/2024,Thai Kitchen,42.0,debit,dining
+08/02/2024,Aral Fuel,22.5,debit,transport
+09/02/2024,Burger Place,28.5,debit,dining
+10/02/2024,DM Drogerie,48.6,debit,groceries
+10/02/2024,Aral Fuel,38.0,debit,transport
+10/02/2024,Taxi,55.0,debit,transport
+11/02/2024,Kaufland,42.3,debit,groceries
+12/02/2024,Uber Ride,3.0,debit,transport
+12/02/2024,Dentist,28.0,debit,health
+13/02/2024,Pizza Hut,6.5,debit,dining
+13/02/2024,Kino Film,8.99,debit,entertainment
+14/02/2024,Edeka,28.9,debit,groceries
+14/02/2024,Lidl,48.6,debit,groceries
+14/02/2024,Bus Ticket,45.0,debit,transport
+16/02/2024,ALDI Sued,15.0,debit,groceries
+16/02/2024,Thai Kitchen,19.8,debit,dining
+17/02/2024,Bus Ticket,38.0,debit,transport
+18/02/2024,Freelance Project Payment,342.11,credit,salary
+19/02/2024,ALDI Sued,55.8,debit,groceries
+19/02/2024,Sushi Bar,42.0,debit,dining
+19/02/2024,IKEA Purchase,150.0,debit,shopping
+20/02/2024,McDonalds,8.5,debit,dining
+21/02/2024,Sushi Bar,18.9,debit,dining
+21/02/2024,Concert Ticket,28.0,debit,entertainment
+22/02/2024,Bank Fee,2.99,debit,other
+23/02/2024,Rent Payment,650.0,debit,rent
+23/02/2024,Salary Credit,2500.0,credit,salary
+23/02/2024,Netflix Subscription,12.99,debit,subscription
+23/02/2024,GitHub Pro,4.99,debit,subscription
+23/02/2024,Kaufland,22.1,debit,groceries
+23/02/2024,Saturn,35.0,debit,shopping
+24/02/2024,Spotify Premium,9.99,debit,subscription
+24/02/2024,Gym Membership,29.99,debit,subscription
+24/02/2024,Taxi,55.0,debit,transport
+24/02/2024,VRR Monthly,45.0,debit,transport
+25/02/2024,DM Drogerie,65.0,debit,groceries
+25/02/2024,Concert Ticket,25.0,debit,entertainment
+27/02/2024,Mobile Plan,19.99,debit,subscription
+27/02/2024,Adobe Creative Cloud,24.99,debit,subscription
+27/02/2024,ALDI Sued,42.3,debit,groceries
+27/02/2024,VRR Monthly,12.5,debit,transport
+28/02/2024,Bus Ticket,38.0,debit,transport
+29/02/2024,Ditsch,15.0,debit,dining
+29/02/2024,Restaurant Italiano,42.0,debit,dining
+02/03/2024,Netto,42.3,debit,groceries
+02/03/2024,Media Markt,85.0,debit,shopping
+03/03/2024,Lidl,28.9,debit,groceries
+03/03/2024,Winter Jacket,85.0,debit,shopping
+04/03/2024,Telekom Internet,39.99,debit,utilities
+05/03/2024,Udemy Course,43.47,debit,education
+06/03/2024,BioMarkt,15.0,debit,groceries
+06/03/2024,DB Bahn Ticket,12.5,debit,transport
+06/03/2024,H&M,65.0,debit,shopping
+07/03/2024,Sushi Bar,22.3,debit,dining
+08/03/2024,Lidl,31.25,debit,groceries
+08/03/2024,BioMarkt,65.0,debit,groceries
+08/03/2024,Edeka,72.5,debit,groceries
+08/03/2024,VRR Monthly,18.3,debit,transport
+09/03/2024,Restaurant Italiano,28.5,debit,dining
+09/03/2024,Netflix (extra),15.0,debit,entertainment
+11/03/2024,DB Bahn Ticket,15.0,debit,transport
+12/03/2024,Edeka,42.3,debit,groceries
+12/03/2024,Cafe Central,19.8,debit,dining
+13/03/2024,REWE Markt,29.99,debit,groceries
+13/03/2024,Taxi,8.9,debit,transport
+14/03/2024,Netto,42.3,debit,groceries
+14/03/2024,Aral Fuel,18.3,debit,transport
+15/03/2024,Stadtwerke Utilities,104.61,debit,utilities
+15/03/2024,Edeka,29.99,debit,groceries
+16/03/2024,Steam Game,18.0,debit,entertainment
+17/03/2024,Pizza Hut,35.0,debit,dining
+18/03/2024,ALDI Sued,72.5,debit,groceries
+18/03/2024,REWE Markt,55.8,debit,groceries
+18/03/2024,Starbucks,18.9,debit,dining
+19/03/2024,Thai Kitchen,42.0,debit,dining
+19/03/2024,Escape Room,25.0,debit,entertainment
+20/03/2024,Taxi,45.0,debit,transport
+20/03/2024,IKEA Purchase,55.0,debit,shopping
+23/03/2024,Salary Credit,2500.0,credit,salary
+23/03/2024,GitHub Pro,4.99,debit,subscription
+23/03/2024,REWE Markt,65.0,debit,groceries
+24/03/2024,Pizza Hut,28.5,debit,dining
+24/03/2024,Shell Fuel,22.5,debit,transport
+24/03/2024,Netflix (extra),55.0,debit,entertainment
+24/03/2024,Festival Ticket,12.5,debit,entertainment
+25/03/2024,Adobe Creative Cloud,24.99,debit,subscription
+25/03/2024,Freelance Project Payment,468.07,credit,salary
+25/03/2024,DB Bahn Ticket,18.3,debit,transport
+26/03/2024,Rent Payment,650.0,debit,rent
+26/03/2024,Mobile Plan,19.99,debit,subscription
+26/03/2024,VRR Monthly,45.0,debit,transport
+26/03/2024,Shell Fuel,65.0,debit,transport
+26/03/2024,Netflix (extra),12.5,debit,entertainment
+26/03/2024,Coffee Machine,120.0,debit,shopping
+27/03/2024,Netflix Subscription,12.99,debit,subscription
+27/03/2024,Spotify Premium,9.99,debit,subscription
+27/03/2024,Gym Membership,29.99,debit,subscription
+28/03/2024,Steam Game,15.0,debit,entertainment
+29/03/2024,Edeka,31.25,debit,groceries
+29/03/2024,Lidl,72.5,debit,groceries
+30/03/2024,Netto,65.0,debit,groceries
+30/03/2024,Kino Film,12.5,debit,entertainment
+31/03/2024,Thai Kitchen,5.5,debit,dining
+31/03/2024,Starbucks,35.0,debit,dining
+31/03/2024,Starbucks,28.5,debit,dining
+01/04/2024,BioMarkt,55.8,debit,groceries
+02/04/2024,Telekom Internet,39.99,debit,utilities
+02/04/2024,Netto,33.2,debit,groceries
+02/04/2024,Saturn,42.5,debit,shopping
+03/04/2024,Sushi Bar,42.0,debit,dining
+03/04/2024,FlixBus,55.0,debit,transport
+04/04/2024,Edeka,42.3,debit,groceries
+04/04/2024,BioMarkt,22.1,debit,groceries
+04/04/2024,Taxi,8.9,debit,transport
+05/04/2024,Bus Ticket,65.0,debit,transport
+06/04/2024,Thai Kitchen,28.5,debit,dining
+10/04/2024,Decathlon,85.0,debit,shopping
+11/04/2024,Kaufland,33.2,debit,groceries
+11/04/2024,Pizza Hut,19.8,debit,dining
+12/04/2024,Shell Fuel,3.0,debit,transport
+13/04/2024,ALDI Sued,18.5,debit,groceries
+13/04/2024,Sushi Bar,6.5,debit,dining
+13/04/2024,Bus Ticket,55.0,debit,transport
+14/04/2024,ALDI Sued,65.0,debit,groceries
+14/04/2024,Starbucks,28.5,debit,dining
+14/04/2024,Apotheke Pharmacy,28.0,debit,health
+15/04/2024,Kino Film,18.0,debit,entertainment
+16/04/2024,Netto,28.9,debit,groceries
+16/04/2024,Doener King,12.0,debit,dining
+16/04/2024,Cafe Central,18.9,debit,dining
+16/04/2024,Bus Ticket,18.3,debit,transport
+17/04/2024,Starbucks,15.0,debit,dining
+17/04/2024,Steam Game,28.0,debit,entertainment
+17/04/2024,H&M,55.0,debit,shopping
+18/04/2024,Lidl,31.25,debit,groceries
+18/04/2024,Edeka,42.3,debit,groceries
+19/04/2024,Mobile Plan,19.99,debit,subscription
+19/04/2024,Shell Fuel,18.3,debit,transport
+21/04/2024,Netflix Subscription,12.99,debit,subscription
+22/04/2024,Rent Payment,650.0,debit,rent
+23/04/2024,Salary Credit,2500.0,credit,salary
+23/04/2024,Pizza Hut,35.0,debit,dining
+24/04/2024,IKEA Purchase,120.0,debit,shopping
+25/04/2024,Spotify Premium,9.99,debit,subscription
+25/04/2024,Gym Membership,29.99,debit,subscription
+25/04/2024,Adobe Creative Cloud,24.99,debit,subscription
+25/04/2024,GitHub Pro,4.99,debit,subscription
+25/04/2024,Netto,22.1,debit,groceries
+25/04/2024,Burger Place,14.2,debit,dining
+25/04/2024,Taxi,15.0,debit,transport
+25/04/2024,VRR Monthly,12.5,debit,transport
+26/04/2024,Bowling Center,55.0,debit,entertainment
+27/04/2024,REWE Markt,42.3,debit,groceries
+27/04/2024,Cafe Central,19.8,debit,dining
+27/04/2024,Steam Game,9.5,debit,entertainment
+28/04/2024,ALDI Sued,18.5,debit,groceries
+28/04/2024,Edeka,28.9,debit,groceries
+29/04/2024,Bus Ticket,55.0,debit,transport
+30/04/2024,BioMarkt,18.5,debit,groceries
+30/04/2024,Apotheke Pharmacy,85.0,debit,health
+01/05/2024,VRR Monthly,8.9,debit,transport
+02/05/2024,DM Drogerie,33.2,debit,groceries
+02/05/2024,McDonalds,18.9,debit,dining
+03/05/2024,Netflix (extra),28.0,debit,entertainment
+03/05/2024,Zara Store,65.0,debit,shopping
+05/05/2024,Telekom Internet,39.99,debit,utilities
+05/05/2024,BioMarkt,18.5,debit,groceries
+05/05/2024,Restaurant Italiano,35.0,debit,dining
+05/05/2024,Ditsch,19.8,debit,dining
+05/05/2024,Concert Ticket,35.0,debit,entertainment
+06/05/2024,REWE Markt,72.5,debit,groceries
+07/05/2024,DM Drogerie,65.0,debit,groceries
+07/05/2024,Uber Ride,55.0,debit,transport
+08/05/2024,BioMarkt,72.5,debit,groceries
+09/05/2024,McDonalds,12.0,debit,dining
+09/05/2024,Shell Fuel,65.0,debit,transport
+10/05/2024,Freelance Project Payment,480.73,credit,salary
+11/05/2024,Netto,28.9,debit,groceries
+12/05/2024,Ditsch,35.0,debit,dining
+13/05/2024,REWE Markt,29.99,debit,groceries
+13/05/2024,ALDI Sued,15.0,debit,groceries
+13/05/2024,DB Bahn Ticket,18.3,debit,transport
+14/05/2024,Stadtwerke Utilities,98.48,debit,utilities
+14/05/2024,Thai Kitchen,18.9,debit,dining
+15/05/2024,University Books,17.75,debit,education
+16/05/2024,Lidl,18.5,debit,groceries
+17/05/2024,ALDI Sued,28.9,debit,groceries
+17/05/2024,Starbucks,5.5,debit,dining
+18/05/2024,Rent Payment,650.0,debit,rent
+18/05/2024,Mobile Plan,19.99,debit,subscription
+18/05/2024,Adobe Creative Cloud,24.99,debit,subscription
+19/05/2024,Spotify Premium,9.99,debit,subscription
+19/05/2024,Gym Membership,29.99,debit,subscription
+19/05/2024,Restaurant Italiano,35.0,debit,dining
+19/05/2024,VRR Monthly,15.0,debit,transport
+19/05/2024,Ebay Kleinanzeigen,89.0,debit,shopping
+20/05/2024,Netflix Subscription,12.99,debit,subscription
+20/05/2024,BioMarkt,15.0,debit,groceries
+21/05/2024,REWE Markt,29.99,debit,groceries
+21/05/2024,Train to Berlin,45.0,debit,transport
+22/05/2024,Salary Credit,2500.0,credit,salary
+22/05/2024,Taxi,8.9,debit,transport
+23/05/2024,GitHub Pro,4.99,debit,subscription
+23/05/2024,ALDI Sued,29.99,debit,groceries
+23/05/2024,Thai Kitchen,8.5,debit,dining
+23/05/2024,Burger Place,42.0,debit,dining
+23/05/2024,Shell Fuel,8.9,debit,transport
+24/05/2024,Charity Donation,20.0,debit,other
+25/05/2024,Restaurant Italiano,19.8,debit,dining
+25/05/2024,VRR Monthly,22.5,debit,transport
+28/05/2024,Cinema City,15.0,debit,entertainment
+28/05/2024,Zara Store,18.99,debit,shopping
+29/05/2024,Edeka,15.0,debit,groceries
+29/05/2024,BioMarkt,28.9,debit,groceries
+31/05/2024,Starbucks,8.5,debit,dining
+31/05/2024,DB Bahn Ticket,22.5,debit,transport
+31/05/2024,Decathlon,12.5,debit,shopping
+01/06/2024,Kaufland,65.0,debit,groceries
+01/06/2024,DM Drogerie,22.1,debit,groceries
+01/06/2024,Aral Fuel,15.0,debit,transport
+01/06/2024,Birthday Gift,45.0,debit,shopping
+02/06/2024,Thai Kitchen,22.3,debit,dining
+03/06/2024,Telekom Internet,39.99,debit,utilities
+03/06/2024,Pizza Hut,42.0,debit,dining
+03/06/2024,Shell Fuel,3.0,debit,transport
+03/06/2024,Kino Film,15.0,debit,entertainment
+05/06/2024,Lidl,55.8,debit,groceries
+06/06/2024,ALDI Sued,42.3,debit,groceries
+06/06/2024,Cafe Central,28.5,debit,dining
+07/06/2024,Edeka,48.6,debit,groceries
+07/06/2024,Ditsch,42.0,debit,dining
+07/06/2024,DB Bahn Ticket,18.3,debit,transport
+07/06/2024,Concert Ticket,18.0,debit,entertainment
+08/06/2024,DB Bahn Ticket,55.0,debit,transport
+08/06/2024,Bowling Center,15.0,debit,entertainment
+09/06/2024,ALDI Sued,18.5,debit,groceries
+10/06/2024,Doener King,35.0,debit,dining
+10/06/2024,Taxi,38.0,debit,transport
+11/06/2024,Kaufland,31.25,debit,groceries
+11/06/2024,Netto,48.6,debit,groceries
+11/06/2024,FlixBus,8.9,debit,transport
+12/06/2024,Sushi Bar,28.5,debit,dining
+14/06/2024,Salary Credit,2500.0,credit,salary
+14/06/2024,Netflix Subscription,12.99,debit,subscription
+14/06/2024,Gym Membership,29.99,debit,subscription
+14/06/2024,Taxi,55.0,debit,transport
+15/06/2024,Freelance Project Payment,473.42,credit,salary
+15/06/2024,DM Drogerie,29.99,debit,groceries
+16/06/2024,Rent Payment,650.0,debit,rent
+16/06/2024,Mobile Plan,19.99,debit,subscription
+16/06/2024,GitHub Pro,4.99,debit,subscription
+17/06/2024,Spotify Premium,9.99,debit,subscription
+17/06/2024,Lidl,31.25,debit,groceries
+17/06/2024,ALDI Sued,72.5,debit,groceries
+17/06/2024,H&M,12.5,debit,shopping
+19/06/2024,Restaurant Italiano,6.5,debit,dining
+19/06/2024,Aral Fuel,45.0,debit,transport
+19/06/2024,Museum,8.99,debit,entertainment
+20/06/2024,Adobe Creative Cloud,24.99,debit,subscription
+20/06/2024,Taxi,55.0,debit,transport
+22/06/2024,DM Drogerie,15.0,debit,groceries
+23/06/2024,Restaurant Italiano,6.5,debit,dining
+23/06/2024,Pizza Hut,28.5,debit,dining
+23/06/2024,Uber Ride,38.0,debit,transport
+24/06/2024,Aral Fuel,55.0,debit,transport
+25/06/2024,Kaufland,65.0,debit,groceries
+26/06/2024,DM Drogerie,29.99,debit,groceries
+26/06/2024,Sushi Bar,42.0,debit,dining
+26/06/2024,Shell Fuel,22.5,debit,transport
+29/06/2024,DM Drogerie,48.6,debit,groceries
+29/06/2024,Starbucks,8.5,debit,dining
+30/06/2024,DB Bahn Ticket,8.9,debit,transport
+01/07/2024,REWE Markt,55.8,debit,groceries
+01/07/2024,Bus Ticket,65.0,debit,transport
+01/07/2024,Doctor Visit,85.0,debit,health
+02/07/2024,Sushi Bar,8.5,debit,dining
+03/07/2024,REWE Markt,42.3,debit,groceries
+04/07/2024,Telekom Internet,39.99,debit,utilities
+05/07/2024,Kino Film,28.0,debit,entertainment
+06/07/2024,BioMarkt,31.25,debit,groceries
+06/07/2024,Taxi,22.5,debit,transport
+07/07/2024,Lidl,15.0,debit,groceries
+07/07/2024,McDonalds,8.5,debit,dining
+08/07/2024,ALDI Sued,42.3,debit,groceries
+08/07/2024,Festival Ticket,35.0,debit,entertainment
+08/07/2024,Media Markt,18.99,debit,shopping
+09/07/2024,Netto,48.6,debit,groceries
+09/07/2024,Cafe Central,28.5,debit,dining
+09/07/2024,Kino Film,15.0,debit,entertainment
+10/07/2024,Uber Ride,55.0,debit,transport
+12/07/2024,Spotify Premium,9.99,debit,subscription
+12/07/2024,GitHub Pro,4.99,debit,subscription
+12/07/2024,Taxi,8.9,debit,transport
+13/07/2024,Stadtwerke Utilities,128.06,debit,utilities
+13/07/2024,BioMarkt,48.6,debit,groceries
+13/07/2024,Lidl,48.6,debit,groceries
+13/07/2024,Pizza Hut,5.5,debit,dining
+13/07/2024,H&M,55.0,debit,shopping
+14/07/2024,Salary Credit,2500.0,credit,salary
+14/07/2024,DB Bahn Ticket,3.0,debit,transport
+14/07/2024,Flight Ticket,89.0,debit,transport
+15/07/2024,Mobile Plan,19.99,debit,subscription
+15/07/2024,Bus Ticket,18.3,debit,transport
+16/07/2024,Rent Payment,650.0,debit,rent
+16/07/2024,Adobe Creative Cloud,24.99,debit,subscription
+16/07/2024,REWE Markt,31.25,debit,groceries
+16/07/2024,Ditsch,5.5,debit,dining
+17/07/2024,Gym Membership,29.99,debit,subscription
+17/07/2024,DB Bahn Ticket,65.0,debit,transport
+18/07/2024,Netflix Subscription,12.99,debit,subscription
+18/07/2024,Doener King,12.0,debit,dining
+18/07/2024,Bowling Center,28.0,debit,entertainment
+19/07/2024,Lidl,38.4,debit,groceries
+20/07/2024,Taxi,45.0,debit,transport
+20/07/2024,Udemy Course,34.25,debit,education
+20/07/2024,New Headphones,89.99,debit,shopping
+20/07/2024,Laptop Repair,150.0,debit,shopping
+21/07/2024,Kaufland,29.99,debit,groceries
+21/07/2024,Escape Room,15.0,debit,entertainment
+22/07/2024,Freelance Project Payment,228.56,credit,salary
+22/07/2024,Kaufland,33.2,debit,groceries
+22/07/2024,Ditsch,8.5,debit,dining
+22/07/2024,Bus Ticket,45.0,debit,transport
+23/07/2024,Edeka,15.0,debit,groceries
+24/07/2024,Kino Film,12.5,debit,entertainment
+25/07/2024,Shell Fuel,18.3,debit,transport
+25/07/2024,VRR Monthly,65.0,debit,transport
+26/07/2024,BioMarkt,29.99,debit,groceries
+28/07/2024,REWE Markt,55.8,debit,groceries
+28/07/2024,Cafe Central,6.5,debit,dining
+29/07/2024,Lidl,72.5,debit,groceries
+30/07/2024,Lidl,33.2,debit,groceries
+30/07/2024,Taxi,65.0,debit,transport
+30/07/2024,FlixBus,3.0,debit,transport
+31/07/2024,Car Wash,12.0,debit,transport
+01/08/2024,Taxi,8.9,debit,transport
+02/08/2024,Telekom Internet,39.99,debit,utilities
+02/08/2024,Restaurant Italiano,35.0,debit,dining
+02/08/2024,Sushi Bar,15.0,debit,dining
+02/08/2024,Netflix (extra),9.5,debit,entertainment
+03/08/2024,Sushi Bar,15.0,debit,dining
+04/08/2024,Lidl,38.4,debit,groceries
+04/08/2024,Zara Store,150.0,debit,shopping
+06/08/2024,ALDI Sued,38.4,debit,groceries
+07/08/2024,Starbucks,35.0,debit,dining
+09/08/2024,Salary Credit,2500.0,credit,salary
+10/08/2024,Edeka,31.25,debit,groceries
+10/08/2024,Saturn,42.5,debit,shopping
+11/08/2024,Spotify Premium,9.99,debit,subscription
+11/08/2024,BioMarkt,33.2,debit,groceries
+11/08/2024,REWE Markt,22.1,debit,groceries
+11/08/2024,Ditsch,15.0,debit,dining
+11/08/2024,Ditsch,8.5,debit,dining
+11/08/2024,Shell Fuel,55.0,debit,transport
+11/08/2024,FlixBus,38.0,debit,transport
+12/08/2024,Rent Payment,650.0,debit,rent
+12/08/2024,Freelance Project Payment,453.99,credit,salary
+12/08/2024,Edeka,38.4,debit,groceries
+12/08/2024,Starbucks,42.0,debit,dining
+13/08/2024,Netflix Subscription,12.99,debit,subscription
+13/08/2024,Adobe Creative Cloud,24.99,debit,subscription
+13/08/2024,Netto,55.8,debit,groceries
+13/08/2024,Decathlon,18.99,debit,shopping
+14/08/2024,Mobile Plan,19.99,debit,subscription
+14/08/2024,Edeka,65.0,debit,groceries
+14/08/2024,McDonalds,35.0,debit,dining
+15/08/2024,Gym Membership,29.99,debit,subscription
+15/08/2024,GitHub Pro,4.99,debit,subscription
+15/08/2024,IKEA Purchase,35.0,debit,shopping
+15/08/2024,Zara Store,120.0,debit,shopping
+16/08/2024,Taxi,18.3,debit,transport
+17/08/2024,VRR Monthly,15.0,debit,transport
+18/08/2024,Thai Kitchen,15.0,debit,dining
+18/08/2024,DB Bahn Ticket,55.0,debit,transport
+20/08/2024,Restaurant Italiano,22.3,debit,dining
+21/08/2024,ALDI Sued,33.2,debit,groceries
+21/08/2024,Kaufland,15.0,debit,groceries
+21/08/2024,Thai Kitchen,19.8,debit,dining
+21/08/2024,FlixBus,8.9,debit,transport
+21/08/2024,Bus Ticket,3.0,debit,transport
+23/08/2024,BioMarkt,15.0,debit,groceries
+23/08/2024,Taxi,38.0,debit,transport
+24/08/2024,Starbucks,42.0,debit,dining
+24/08/2024,Kino Film,12.5,debit,entertainment
+25/08/2024,Kaufland,18.5,debit,groceries
+27/08/2024,FlixBus,12.5,debit,transport
+28/08/2024,Lidl,29.99,debit,groceries
+28/08/2024,REWE Markt,42.3,debit,groceries
+28/08/2024,Taxi,22.5,debit,transport
+29/08/2024,Restaurant Italiano,19.8,debit,dining
+29/08/2024,Uber Ride,8.9,debit,transport
+29/08/2024,Dentist,12.5,debit,health
+30/08/2024,BioMarkt,55.8,debit,groceries
+30/08/2024,Starbucks,28.5,debit,dining
+30/08/2024,Doener King,12.0,debit,dining
+30/08/2024,Cinema City,9.5,debit,entertainment
