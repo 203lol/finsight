@@ -196,7 +196,7 @@ expenses, a recurring net of about +€1,707 before discretionary spending.
 
 The detector correctly *excludes* the irregular items- the variable
 "Freelance Project Payment" income and the fluctuating utility bill fall
-outside the amount/interval regularity thresholds which is the desired
+outside the amount/interval regularity thresholds, which is the desired
 behaviour, since those are not dependable recurring cash flows.
 
 Over the whole period the true savings rate is about 18% (~€585/month), and
