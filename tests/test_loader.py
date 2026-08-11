@@ -104,3 +104,53 @@ def test_missing_column_raises(tmp_path):
 def test_missing_file_raises(tmp_path):
     with pytest.raises(FileNotFoundError):
         load_transactions(tmp_path / "does_not_exist.csv")
+
+
+def test_empty_csv_returns_empty_list(tmp_path):
+    # A CSV with only a header row (no transactions) should load as an
+    # empty list, not raise an error.
+    csv_path = tmp_path / "empty.csv"
+    csv_path.write_text(
+        "date,description,amount,type,category\n", encoding="utf-8"
+    )
+    assert load_transactions(csv_path) == []
+
+
+def test_single_transaction(tmp_path):
+    # A CSV with exactly one row should load that one transaction.
+    csv_path = tmp_path / "single.csv"
+    csv_path.write_text(
+        "date,description,amount,type,category\n"
+        "15/03/2024,Coffee Shop,4.50,debit,dining\n",
+        encoding="utf-8",
+    )
+    txns = load_transactions(csv_path)
+    assert len(txns) == 1
+    assert txns[0].description == "Coffee Shop"
+    assert txns[0].amount == -4.50  # debit -> negative
+
+
+def test_iso_date_format(tmp_path):
+    # The loader should also accept ISO (YYYY-MM-DD) dates, not just DD/MM.
+    csv_path = tmp_path / "iso.csv"
+    csv_path.write_text(
+        "date,description,amount,type,category\n"
+        "2024-03-15,Coffee Shop,4.50,debit,dining\n",
+        encoding="utf-8",
+    )
+    txns = load_transactions(csv_path)
+    assert txns[0].date == date(2024, 3, 15)
+
+
+def test_transactions_sorted_by_date(tmp_path):
+    # Rows given out of order should come back sorted ascending by date.
+    csv_path = tmp_path / "unordered.csv"
+    csv_path.write_text(
+        "date,description,amount,type,category\n"
+        "20/03/2024,Later,10.00,debit,other\n"
+        "05/03/2024,Earlier,10.00,debit,other\n",
+        encoding="utf-8",
+    )
+    txns = load_transactions(csv_path)
+    assert txns[0].description == "Earlier"
+    assert txns[1].description == "Later"
